@@ -1,2 +1,2 @@
 thislist = ["apple", "banana", "cherry"]
-print(len(thislist))
+[print(x) for x in thislist]

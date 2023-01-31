@@ -1,3 +1,3 @@
 thislist = ["apple", "banana", "cherry"]
-thislist[1] = "blackcurrant"
+del thislist[0]
 print(thislist)
